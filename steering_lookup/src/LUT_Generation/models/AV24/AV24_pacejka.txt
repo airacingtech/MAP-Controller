@@ -1,0 +1,20 @@
+f_pacejka_b: 11.0
+f_pacejka_c: 1.7
+f_pacejka_e: 1.0
+
+r_pacejka_b: 11.0
+r_pacejka_c: 1.7
+r_pacejka_e: 1.0
+
+I_z: 700.0
+a_max: 4 
+a_min: -4
+h_cg: 0.35
+l_f: 1.6
+l_r: 1.6
+l_wb: 2.9718
+m: 782.9
+model_name: AV24
+mu: 1.1
+tau_steer: 0.25
+tire_model: pacejka
